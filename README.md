@@ -32,5 +32,5 @@ this above project uses logistic regression as the main ml algorithm to predict 
 
 
 we give our output of prediction as 0 or 1;
-                0 output means diabetes not detected.
-                1 output means diabetes  detected.
+               { 0 output means diabetes not detected.}{
+                1 output means diabetes  detected.}
