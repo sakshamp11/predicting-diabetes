@@ -2,6 +2,8 @@ Predicting _Diabetes
 
 this above project uses logistic regression as the main ml algorithm to predict diabetes for the patient using details of patient like 'Pregnancy','glucose','bp','skin','insulin','bmi','pedigree','age'
 
+Dataset is obtained from kaggle
+
 
 
 
